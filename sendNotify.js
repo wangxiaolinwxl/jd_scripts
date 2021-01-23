@@ -39,9 +39,9 @@ let TG_USER_ID = '';
 // =======================================钉钉机器人通知设置区域===========================================
 //此处填你钉钉 bot 的webhook，例如：5a544165465465645d0f31dca676e7bd07415asdasd
 //注：此处设置github action用户填写到Settings-Secrets里面(Name输入DD_BOT_TOKEN)
-let DD_BOT_TOKEN = '';
+let DD_BOT_TOKEN = '50322421aa4f104f5dd6e79c775fe6f554a35f007c2f58327dd716932436dc74';
 //密钥，机器人安全设置页面，加签一栏下面显示的SEC开头的字符串
-let DD_BOT_SECRET = '';
+let DD_BOT_SECRET = 'SEC1789e1e3d471c2e066faad844ead14a0014fc8f5e51c52ea96ec392cf27ad6a6';
 
 // =======================================企业微信机器人通知设置区域===========================================
 //此处填你企业微信机器人的 webhook(详见文档 https://work.weixin.qq.com/api/doc/90000/90136/91770)，例如：693a91f6-7xxx-4bc4-97a0-0ec2sifa5aaa
